@@ -1,6 +1,7 @@
 # RedditWallpaper
-This Android app takes 75 top images from reddit.com/r/iWallpaper subreddit and allows them to set as homescreen wallpaper.
-Made use of Retrofit API to get data in json format and Glide Photo Library to load the images from url and photoView to make image view zoomable.
+This Android app takes 75 top images from reddit.com/r/iWallpaper subreddit and you can set them as homescreen wallpaper of the phone.
+
+Made use of Retrofit2 Library to get data in json format and Glide Photo Library to load the images from url and photoView to make image view zoomable.
 
 Try out the app: https://drive.google.com/open?id=1L72YhmDlBwnpeXdtRr9HiAZ1_RCGCCqI
 
